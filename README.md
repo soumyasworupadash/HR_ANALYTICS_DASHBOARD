@@ -4,7 +4,7 @@ A powerful and interactive Tableau dashboard designed to uncover key insights fr
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](path_to_your_image.png) <!-- Replace with actual image path in your GitHub repo -->
+![HR Analytics Dashboard](HR_DASHBOARD.png) <!-- Replace with actual image path in your GitHub repo -->
 
 ## 🔍 Key Features
 
